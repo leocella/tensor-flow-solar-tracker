@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/Leonardo Cella/Documents/UFSC_ATUAL/UFSC_ATUAL/tcc_final_leo/Servo_Encoder_TCC/build/CMakeFiles/bootloader
+C:/Users/Leonardo Cella/Documents/UFSC_ATUAL/UFSC_ATUAL/tcc_final_leo/Servo_Encoder_TCC/build/CMakeFiles/bootloader.rule
+C:/Users/Leonardo Cella/Documents/UFSC_ATUAL/UFSC_ATUAL/tcc_final_leo/Servo_Encoder_TCC/build/CMakeFiles/bootloader-complete.rule
+C:/Users/Leonardo Cella/Documents/UFSC_ATUAL/UFSC_ATUAL/tcc_final_leo/Servo_Encoder_TCC/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/Leonardo Cella/Documents/UFSC_ATUAL/UFSC_ATUAL/tcc_final_leo/Servo_Encoder_TCC/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/Leonardo Cella/Documents/UFSC_ATUAL/UFSC_ATUAL/tcc_final_leo/Servo_Encoder_TCC/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/Leonardo Cella/Documents/UFSC_ATUAL/UFSC_ATUAL/tcc_final_leo/Servo_Encoder_TCC/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/Leonardo Cella/Documents/UFSC_ATUAL/UFSC_ATUAL/tcc_final_leo/Servo_Encoder_TCC/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/Leonardo Cella/Documents/UFSC_ATUAL/UFSC_ATUAL/tcc_final_leo/Servo_Encoder_TCC/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/Leonardo Cella/Documents/UFSC_ATUAL/UFSC_ATUAL/tcc_final_leo/Servo_Encoder_TCC/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
