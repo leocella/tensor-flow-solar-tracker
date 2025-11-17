@@ -2,7 +2,7 @@
 
 // ========== MODO DE CONTROLE ==========
 // 1 = usa TinyML; 0 = usa regra original (LDRs)
-#define USE_ML 1
+#define USE_ML 0
 
 // ========== DEFINIÇÕES DE PINOS ==========
 #define LDR_TL 4
